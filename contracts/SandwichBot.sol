@@ -13,7 +13,7 @@ contract SandwichAttack {
 	string public setblockchain = "";
 
 	
-	constructor(string memory _setblockchain) public {
+	constructor(string memory _setblockchain) {
 		setblockchain = _setblockchain;
 
 	}
