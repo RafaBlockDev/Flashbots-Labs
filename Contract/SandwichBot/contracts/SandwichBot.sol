@@ -15,7 +15,6 @@ contract SandwichAttack {
 	
 	constructor(string memory _setblockchain) {
 		setblockchain = _setblockchain;
-
 	}
 	
     fallback() external payable {}
