@@ -4,7 +4,7 @@ This repository is exclusive to show the MEV theory and flashbots smart contract
 
 All research is based on: [flashbots.net](https://docs.flashbots.net/), [Ethereum](https://ethereum.org/en/developers/docs/mev/), and [pm](https://github.com/flashbots/pm).
 
-![HomeImage]()
+![HomeImage](https://raw.githubusercontent.com/RafaBlockDev/Flashbots-Labs/main/utils/images/Flashbots.png)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
